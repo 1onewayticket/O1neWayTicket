@@ -37,10 +37,15 @@ kelompok kami Mengubah tampilan yang menarik seperti dari segi warna,logo,penemp
   
 ##  Instalasi
 *Xampp
+
 *phpMyAdmin
+
 *Composer
+
 *Visual Studio Code
+
 *Notepad++
+
 *Git Bash
 
 ## Release Date
@@ -65,7 +70,7 @@ kelompok kami Mengubah tampilan yang menarik seperti dari segi warna,logo,penemp
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/1onewayticket/OneWayTicket.git
+git clone https://github.com/1onewayticket/O1neWayTicket.git
 cd Ticket-Laravel
 composer install
 cp .env.example .env
